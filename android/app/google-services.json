@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622341896003",
+    "project_id": "adshopping-e24cf",
+    "storage_bucket": "adshopping-e24cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622341896003:android:2f0d5065f523a10ee461f6",
+        "android_client_info": {
+          "package_name": "com.example.ads_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622341896003-c9850bu0sr2rk3gddc49roqa2unvl2pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJTSzCW4GUh4FwbLDEqrPSd3EXjaC7hQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622341896003-c9850bu0sr2rk3gddc49roqa2unvl2pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
